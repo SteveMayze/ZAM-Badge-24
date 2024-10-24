@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "VULCA-Badge-Footprints")(type "KiCad")(uri "${KIPRJMOD}/lib/VULCA-Badge-Footprints.pretty")(options "")(descr ""))
+)

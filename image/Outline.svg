@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="54.563858mm"
+   height="97.076897mm"
+   viewBox="0 0 54.563858 97.076897"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   sodipodi:docname="Outline.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.6819304"
+     inkscape:cx="146.26051"
+     inkscape:cy="160.82711"
+     inkscape:window-width="1440"
+     inkscape:window-height="872"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Edge-Cut"
+     inkscape:export-filename="../VULCA-Badge/resource/Badge-Mask-1.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">
+    <path
+       id="rect1-3"
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round"
+       d="m 0.132291,14.609199 c 20.607517,-20.973986 38.298554,-17.555605 54.299274,0 v 82.33541 H 0.132291 Z"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-77.736865,-90.026701)"
+     sodipodi:insensitive="true">
+    <path
+       fill="#e87b05"
+       d="m 127.632,135.75561 c -0.16997,-0.51539 -0.26935,-1.59348 -0.43247,-3.95458 -0.098,-1.4098 -0.29471,-5.25129 -0.79777,-5.58575 -1.31179,-0.87179 -13.64775,-0.87179 -18.70782,-0.78886 0,0 -26.969949,-0.26181 -27.429831,0.9321 -0.313899,0.81353 -1.0212,25.59236 -1.0212,25.59236 l 1.274786,11.98024 c 0,0 6.762534,0.0199 7.210764,0 0.448232,-0.0212 6.123086,-0.12816 6.525397,0.01 0.721693,0.24536 0.614776,2.834 0.243991,3.22191 -0.370099,0.38792 -12.214642,3.67426 -12.780071,4.82294 -0.566115,1.14731 1.054097,12.88288 1.054097,12.88288 l 17.986817,-0.0158 14.08844,0.7121 11.34354,0.30499 c 0,0 -1.18158,-8.12779 -1.8738,-10.77331 -0.32692,-1.24737 -2.92927,-2.58795 -6.55007,-3.53239 -3.05743,-0.79777 -5.19989,-2.52353 -7.02914,-3.38984 -0.52979,-0.25084 -0.28306,-2.09722 0.0329,-3.72224 0.31458,-1.62501 2.48035,-5.04499 2.48035,-5.04499 0,0 4.80238,0.45919 6.17585,0.45577 1.31454,-0.004 3.84287,0.2296 4.36512,-0.2015 0.52225,-0.4311 1.9581,-3.30828 1.9581,-3.30828 0,0 0.77995,-1.24531 1.14936,-1.80389 0.47633,-0.72032 -0.21452,-1.43516 -0.95746,-1.48176 -0.7354,-0.0459 -1.37622,0.34131 -2.80864,-0.47222 -2.69761,-1.53249 -2.29324,-4.05328 -2.29324,-4.05328 0.20492,-0.14529 4.83938,-0.44549 4.83938,-0.44549 0,0 1.61199,0.0206 1.69081,-0.51196 0.0802,-0.53391 0.66412,-3.0355 0.66412,-3.0355 0,0 2.39468,-1.72713 2.73325,-2.29599 0.24194,-0.40848 -2.96422,-5.9819 -3.13556,-6.49729 z m -4.11084,-7.13469 c 0.11857,-0.29539 -0.12131,1.21722 -0.43384,2.00539 -0.0452,0.11309 -0.72718,1.68738 -0.72718,1.68738 -0.63191,-0.31253 -1.33509,-0.89852 -1.33509,-0.89852 z m -5.06282,-2.34327 c 0.79434,2.07941 0.66001,2.27062 0.83272,3.15269 0.0254,0.1268 0.39409,1.73741 0.39409,1.73741 -0.28786,-0.14804 -2.01087,-0.005 -2.01087,-0.005 z m -5.01073,9.27852 c 0,0 -3.17463,-0.7306 -3.54404,-0.78543 -0.36942,-0.0548 2.36246,-0.81216 2.50982,-0.78543 0.14804,0.0267 1.18226,0 1.18226,0 z m -1.3303,-6.4315 c 0.13707,0.003 1.84707,1.07946 2.61879,1.65311 0.10966,0.0816 0.99995,0.72443 0.99995,0.72443 l -1.2741,1.14388 c 0,0 -2.72434,-3.53102 -2.34464,-3.52142 z m 6.65493,7.13949 c -1.35703,0 -2.73462,0.0548 -4.08549,-0.0144 -0.0548,-1.15759 0.19259,-2.02184 0.97323,-2.87101 0.84986,-0.9321 1.82308,-0.9088 3.03618,-0.91154 1.42694,-0.003 3.11089,0.49964 4.46313,3.57077 -1.27616,0.33515 -3.06497,0.22617 -4.38705,0.22617 z m 5.72214,-1.94919 c -0.0747,0.0493 -0.66755,0.45508 -0.66755,0.45508 l -0.4215,-1.03833 c 0,0 2.77643,-0.89372 2.68665,-0.66275 -0.0315,0.085 -1.07397,0.89852 -1.5976,1.246 z"
+       id="path1"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="D:\Projects\ZAM\ZAM_VULCA_Badge\VULCA-Badge\resource\Head.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       id="g14-0"
+       transform="matrix(0.68536877,0,0,0.68536877,73.958031,105.94002)"
+       inkscape:export-filename="D:\Projects\ZAM\ZAM_VULCA_Badge\VULCA-Badge\resource\ZAM-Full.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.386045;stroke-dasharray:none;stroke-opacity:1">&#10;		<path
+   fill="#e87b05"
+   d="M 10.475,21.86 31.606,16.205 30.176,10.915 9.044,16.57 Z M 9.379,27.333 H 31.272 V 21.86 H 9.379 Z"
+   id="path6-2"
+   style="fill:none;stroke:#000000;stroke-width:0.386045;stroke-dasharray:none;stroke-opacity:1" />
+&#10;		<path
+   fill="#e87b05"
+   d="m 71.893,5.442 c -2.861,0 -5.262,2.25 -5.445,5.078 -0.213,-2.827 -2.613,-5.078 -5.472,-5.078 -3.01,0 -5.473,2.463 -5.473,5.473 v 5.473 10.945 h 5.473 V 16.966 c 0.304,2.736 2.615,4.895 5.442,4.895 3.01,0 5.475,-2.463 5.475,-5.472 v 10.945 h 5.472 V 10.915 C 77.364,7.905 74.9,5.442 71.893,5.442 Z"
+   id="path8-48"
+   style="fill:none;stroke:#000000;stroke-width:0.386045;stroke-dasharray:none;stroke-opacity:1" />
+&#10;		<polygon
+   fill="#e87b05"
+   points="31.271,10.915 31.271,5.442 9.379,5.442 9.379,10.915 "
+   id="polygon10-39"
+   style="fill:none;stroke:#000000;stroke-width:0.386045;stroke-dasharray:none;stroke-opacity:1" />
+&#10;		<path
+   fill="#e87b05"
+   d="m 40.118,10.915 h 5.473 c 0,-3.01 -2.464,-5.473 -5.473,-5.473 -3.01,0 -5.473,2.463 -5.473,5.473 V 21.86 c 0,3.01 2.463,5.473 5.473,5.473 3.009,0 5.473,-2.463 5.473,-5.473 h -5.473 z m 5.473,-5.473 v 21.892 h 5.472 V 5.442 Z"
+   id="path12-0"
+   style="fill:none;stroke:#000000;stroke-width:0.386045;stroke-dasharray:none;stroke-opacity:1" />
+&#10;	</g>
+    <ellipse
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.301823;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path3"
+       cx="118.48766"
+       cy="133.80345"
+       rx="1.2331258"
+       ry="0.89737761" />
+    <path
+       id="rect1"
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round"
+       d="m 77.869156,104.6359 c 20.607517,-20.973986 38.298554,-17.555605 54.299274,0 v 82.33541 H 77.869156 Z"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>
