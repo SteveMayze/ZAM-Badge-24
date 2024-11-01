@@ -68,7 +68,7 @@
 	)
 	(attr smd)
 	(fp_text user "+"
-		(at -1.143 -1.27 0)
+		(at -1.016 5.08 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "df84a4c6-7f43-4832-9dd6-e79f69f3cc7c")
