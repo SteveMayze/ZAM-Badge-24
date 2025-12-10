@@ -948,6 +948,26 @@
 		)
 		(uuid "f779ad5f-6705-4d20-b59d-8837459d970d")
 	)
+	(label "V+"
+		(at 125.73 67.31 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1babcee9-b6c1-41fb-aaeb-1fafeb5c199f")
+	)
+	(label "3V2"
+		(at 127 44.45 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3b14d747-ac18-4140-a3fb-a2ccccd032fd")
+	)
 	(symbol
 		(lib_id "sjm-mechanical:logo")
 		(at 160.02 57.15 0)
